@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Avinav
+- 👀 I’m interested in travelling and working with different people, getting new experience.
+- 🌱 I’m currently learning Python, Playwright, GitBash cammands.
+- 💞️ I’m looking to collaborate on Automation. Make things easy.
+- 📫 How to reach me 
+- 😄 Pronouns
+- ⚡ Fun fact 
