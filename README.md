@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Avinav
-- 👀 I’m interested in travelling and working with different people, acquiring new experience.
-- 🌱 I’m currently learning TypeScript, Playwright, GitBash cammands.
-- 💞️ I’m looking to collaborate on Automation!
+- Hi, I’m Avinav
+- I’m interested in travelling and working with different people, acquiring new experience.
+- I’m currently improving my skills in WebSocket automation(BDD Framework) and Playwright tool for UI automation.
+- I’m looking to collaborate on Automation!
 - 📫 Email : avinavbiswas13@gmail.com
